@@ -1,4 +1,5 @@
 import Header from "@/components/Header";
+import InteractiveBackground from "@/components/InteractiveBackground";
 import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
 import ProjectsSection from "@/components/ProjectsSection";
