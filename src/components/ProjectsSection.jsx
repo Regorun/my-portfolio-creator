@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Task Management App",
     description: "Collaborative project management tool with drag-and-drop boards, real-time updates, and team analytics.",
-    tags: ["TypeScript", "Next.js", "PostgreSQL"],
+    tags: ["JavaScript", "Next.js", "PostgreSQL"],
     color: "hsl(200 60% 50% / 0.1)",
   },
   {

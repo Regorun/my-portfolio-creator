@@ -8,7 +8,7 @@ const navItems = ["About", "Projects", "Contact"];
 const Header = () => {
   const { theme, toggleTheme } = useTheme();
 
-  const scrollTo = (id: string) => {
+  const scrollTo = (id) => {
     document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
   };
 

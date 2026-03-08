@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Code2, Palette, Zap } from "lucide-react";
 
 const skills = [
-  { icon: Code2, title: "Development", description: "React, TypeScript, Node.js, and modern web technologies." },
+  { icon: Code2, title: "Development", description: "React, JavaScript, Node.js, and modern web technologies." },
   { icon: Palette, title: "Design", description: "UI/UX design with attention to detail and accessibility." },
   { icon: Zap, title: "Performance", description: "Optimized, fast-loading applications with great UX." },
 ];
